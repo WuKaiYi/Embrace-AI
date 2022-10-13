@@ -1,6 +1,6 @@
 ## Welcome to AI-Master
 
-AI Technology sharer
+Embrace-AI
 
 ![Image description](https://raw.githubusercontent.com/WuKaiYi/AI-master.github.io/master/ICON.png)
 
