@@ -1,8 +1,8 @@
-## Welcome to AI-Master
+## Welcome to Embrace-AI
 
 Embrace-AI
 
-![Image description](https://raw.githubusercontent.com/WuKaiYi/AI-master.github.io/master/ICON.png)
+![Image description](https://raw.githubusercontent.com/WuKaiYi/Embrace-AI.github.io/master/ICON.png)
 
 
 
